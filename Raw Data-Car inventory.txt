@@ -1,0 +1,66 @@
+Car ID	Make	Make (Full Name)	Model	Model (Full Name)	Manufacture Year	Age	Miles	Miles / Year	Color	Driver	Warantee Miles	Covered?	New Car ID
+FD06MTG001	FD	Ford	MTG	Mustang	06	19	" 40,326.80 "	" 2,122.46 "	Black	Smith	50000	Covered	FD06MTGBla001
+FD06MTG002	FD	Ford	MTG	Mustang	06	19	" 44,974.80 "	" 2,367.09 "	White	McCall	50000	Covered	FD06MTGWhi002
+FD08MTG003	FD	Ford	MTG	Mustang	08	17	" 44,946.50 "	" 2,643.91 "	Green	Lyon	50000	Covered	FD08MTGGre003
+FD08MTG004	FD	Ford	MTG	Mustang	08	17	" 37,558.80 "	" 2,209.34 "	Black	Jones	50000	Covered	FD08MTGBla004
+FD08MTG005	FD	Ford	MTG	Mustang	08	17	" 36,438.50 "	" 2,143.44 "	White	Smith	50000	Covered	FD08MTGWhi005
+FD06FCS006	FD	Ford	FCS	Focus	06	19	" 46,311.40 "	" 2,437.44 "	Green	Ewenty	75000	Covered	FD06FCSGre006
+FD06FCS007	FD	Ford	FCS	Focus	06	19	" 52,229.50 "	" 2,748.92 "	Green	Lyon	75000	Covered	FD06FCSGre007
+FD09FCS008	FD	ford	FCS	Focus	09	16	" 35,137.00 "	" 2,196.06 "	Black	Howard	75000	Covered	FD09FCSBla008
+FD13FCS009	FD	Ford	FCS	Focus	13	12	" 27,637.10 "	" 2,303.09 "	Black	Smith	75000	Covered	FD13FCSBla009
+FD13FCS010	FD	Ford	FCS	Focus	13	12	" 27,534.80 "	" 2,294.57 "	White	Praulty	75000	Covered	FD13FCSWhi010
+FD12FCS011	FD	Ford	FCS	Focus	12	13	" 19,341.70 "	" 1,487.82 "	White	Yousef	75000	Covered	FD12FCSWhi011
+FD13FCS012	FD	Ford	FCS	Focus	13	12	" 22,521.60 "	" 1,876.80 "	Black	Vizzini	75000	Covered	FD13FCSBla012
+FD13FCS013	FD	Ford	FCS	Focus	13	12	" 13,682.90 "	" 1,140.24 "	Black	Rodriguez	75000	Covered	FD13FCSBla013
+GM09CMR014	GM	General Motors	CMR	Camero	09	16	" 28,464.80 "	" 1,779.05 "	White	Santos	100000	Covered	GM09CMRWhi014
+GM12CMR015	GM	General Motors	CMR	Camero	12	13	" 19,421.10 "	" 1,493.93 "	Black	Bard	100000	Covered	GM12CMRBla015
+GM14CMR016	GM	General Motors	CMR	Camero	14	11	" 14,289.60 "	" 1,299.05 "	White	Torrens	100000	Covered	GM14CMRWhi016
+GM10SLV017	GM	General Motors	SLV	Silverado	10	15	" 31,144.40 "	" 2,076.29 "	Black	Hulinski	100000	Covered	GM10SLVBla017
+GM98SLV018	GM	General Motors	SLV	Silverado	98	2	" 83,162.70 "	" 41,581.35 "	Black	Santos	100000	Covered	GM98SLVBla018
+GM00SLV019	GM	General Motors	SLV	Silverado	00	25	" 80,685.80 "	" 3,227.43 "	Blue	Vizzini	100000	Covered	GM00SLVBlu019
+TY96CAM020	TY	Toyota	CAM	Camrey	96	4	" 114,660.60 "	" 28,665.15 "	Green	Chan	100000	Not Covered	TY96CAMGre020
+TY98CAM021	TY	Toyota	CAM	Camrey	98	2	" 93,382.60 "	" 46,691.30 "	Black	Swartz	100000	Covered	TY98CAMBla021
+TY00CAM022	TY	Toyota	CAM	Camrey	00	25	" 85,928.00 "	" 3,437.12 "	Green	Ewenty	100000	Covered	TY00CAMGre022
+TY02CAM023	TY	Toyota	CAM	Camrey	02	23	" 67,829.10 "	" 2,949.09 "	Black	Smith	100000	Covered	TY02CAMBla023
+TY09CAM024	TY	Toyota	CAM	Camrey	09	16	" 48,114.20 "	" 3,007.14 "	White	Howard	100000	Covered	TY09CAMWhi024
+TY02COR025	TY	Toyota	COR	Corola	02	23	" 64,467.40 "	" 2,802.93 "	Red	Gaul	100000	Covered	TY02CORRed025
+TY03COR026	TY	Toyota	COR	Corola	03	22	" 73,444.40 "	" 3,338.38 "	Black	Gaul	100000	Covered	TY03CORBla026
+TY14COR027	TY	Toyota	COR	Corola	14	11	" 17,556.30 "	" 1,596.03 "	Blue	Praulty	100000	Covered	TY14CORBlu027
+TY12COR028	TY	Toyota	COR	Corola	12	13	" 29,601.90 "	" 2,277.07 "	Black	Santos	100000	Covered	TY12CORBla028
+TY12CAM029	TY	Toyota	CAM	Camrey	12	13	" 22,128.20 "	" 1,702.17 "	Blue	Chan	100000	Covered	TY12CAMBlu029
+HO99CIV030	HO	Honda	CIV	Civic	99	1	" 82,374.00 "	" 82,374.00 "	White	Rodriguez	75000	Not Covered	HO99CIVWhi030
+HO01CIV031	HO	Honda	CIV	Civic	01	24	" 69,891.90 "	" 2,912.16 "	Blue	Jones	75000	Covered	HO01CIVBlu031
+HO10CIV032	HO	Honda	CIV	Civic	10	15	" 22,573.00 "	" 1,504.87 "	Blue	Torrens	75000	Covered	HO10CIVBlu032
+HO10CIV033	HO	Honda	CIV	Civic	10	15	" 33,477.20 "	" 2,231.81 "	Black	Swartz	75000	Covered	HO10CIVBla033
+HO11CIV034	HO	Honda	CIV	Civic	11	14	" 30,555.30 "	" 2,182.52 "	Black	Lyon	75000	Covered	HO11CIVBla034
+HO12CIV035	HO	Honda	CIV	Civic	12	13	" 24,513.20 "	" 1,885.63 "	Black	Hulinski	75000	Covered	HO12CIVBla035
+HO13CIV036	HO	Honda	CIV	Civic	13	12	" 13,867.60 "	" 1,155.63 "	Black	Chan	75000	Covered	HO13CIVBla036
+HO05ODY037	HO	Honda	ODY	Odyssey	05	20	" 60,389.50 "	" 3,019.48 "	White	Howard	100000	Covered	HO05ODYWhi037
+HO07ODY038	HO	Honda	ODY	Odyssey	07	18	" 50,854.10 "	" 2,825.23 "	Black	Swartz	100000	Covered	HO07ODYBla038
+HO08ODY039	HO	Honda	ODY	Odyssey	08	17	" 42,504.60 "	" 2,500.27 "	White	Rodriguez	100000	Covered	HO08ODYWhi039
+HO01ODY040	HO	Honda	ODY	Odyssey	01	24	" 68,658.90 "	" 2,860.79 "	Black	Smith	100000	Covered	HO01ODYBla040
+HO14ODY041	HO	Honda	ODY	Odyssey	14	11	" 3,708.10 "	 337.10 	Black	McCall	100000	Covered	HO14ODYBla041
+CR04PTC042	CR	Chrysler	PTC	PT Cruiser	04	21	" 64,542.00 "	" 3,073.43 "	Blue	Smith	75000	Covered	CR04PTCBlu042
+CR07PTC043	CR	Chrysler	PTC	PT Cruiser	07	18	" 42,074.20 "	" 2,337.46 "	Green	Gaul	75000	Covered	CR07PTCGre043
+CR11PTC044	CR	Chrysler	PTC	PT Cruiser	11	14	" 27,394.20 "	" 1,956.73 "	Black	Vizzini	75000	Covered	CR11PTCBla044
+CR99CAR045	CR	Chrysler	CAR	Caravan	99	1	" 79,420.60 "	" 79,420.60 "	Green	Hulinski	75000	Not Covered	CR99CARGre045
+CR00CAR046	CR	Chrysler	CAR	Caravan	00	25	" 77,243.10 "	" 3,089.72 "	Black	Jones	75000	Not Covered	CR00CARBla046
+CR04CAR047	CR	Chrysler	CAR	Caravan	04	21	" 72,527.20 "	" 3,453.68 "	White	Bard	75000	Covered	CR04CARWhi047
+CR04CAR048	CR	Chrysler	CAR	Caravan	04	21	" 52,699.40 "	" 2,509.50 "	Red	Bard	75000	Covered	CR04CARRed048
+HY11ELA049	HY	Hundai	ELA	Elantra	11	14	" 29,102.30 "	" 2,078.74 "	Black	Torrens	100000	Covered	HY11ELABla049
+HY12ELA050	HY	Hundai	ELA	Elantra	12	13	" 22,282.00 "	" 1,714.00 "	Blue	McCall	100000	Covered	HY12ELABlu050
+HY13ELA051	HY	Hundai	ELA	Elantra	13	12	" 20,223.90 "	" 1,685.33 "	Black	Praulty	100000	Covered	HY13ELABla051
+HY13ELA052	HY	Hundai	ELA	Elantra	13	12	" 22,188.50 "	" 1,849.04 "	Blue	Ewenty	100000	Covered	HY13ELABlu052
+													
+													
+	CR	Chrysler	CAM	Camrey									
+	FD	Ford	CAR	Caravan									
+	GM	General Motors	CIV	Civic									
+	HO	Honda	CMR	Camero									
+	HY	Hundai	COR	Corola									
+	TY	Toyota	ELA	Elantra									
+			FCS	Focus									
+			MTG	Mustang									
+			ODY	Odyssey									
+			PTC	PT Cruiser									
+			SLV	Silverado									
